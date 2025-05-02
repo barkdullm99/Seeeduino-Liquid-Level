@@ -25,3 +25,9 @@ This repository contains code for a Seeeduino-based liquid level control system.
 - This setup is intended for educational and experimental use.
 - Some hardware configuration or calibration may be required for proper operation.
 
+## Contact
+
+For questions or feedback, contact:
+
+**Michael Barkdull**  
+barkdullm99@gmail.com
